@@ -66,6 +66,9 @@
 ---
 
 ## 📌 Featured Projects  
+- 🚀 **[Latent Flow Matching for Intrinsic Image Decomposition](https://github.com/mithleshsingla/image_to_albedo_shading/tree/main)**
+   Built a latent flow matching model with VAE-based representations and U-Net inference (~37M params), achieving high-quality results in just 2 timesteps.
+  
 - 🏃 **[Human Activity Recognition](https://github.com/mithleshsingla/uci)**  
    Developed a classification model using NumPy, pandas, Matplotlib, TSFEL, and scikit-learn. Implemented decision trees, cross-validation, and integrated zero-shot/few-shot methods.  
 
