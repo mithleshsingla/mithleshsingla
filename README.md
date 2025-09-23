@@ -66,8 +66,8 @@
 ---
 
 ## 📌 Featured Projects  
-- 🚀 **[Latent Flow Matching for Intrinsic Image Decomposition](https://github.com/mithleshsingla/image_to_albedo_shading/tree/main)**
-   Built a latent flow matching model with VAE-based representations and U-Net inference (~37M params), achieving high-quality results in just 2 timesteps deployed on Huggingface.
+- 🚀 **[FlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching](https://github.com/mithleshsingla/FlowIID)**
+   Submitted to ICASSP 2026 (Under Review). Developed FlowIID, a SOTA IID model achieving single-step albedo & shading decomposition with only 52M params (vs. typical   250–500M), using VAE,  Encoder,  UNet. Deployed on Hugging Face Spaces.
   
 - 🏃 **[Human Activity Recognition](https://github.com/mithleshsingla/uci)**  
    Developed a classification model using NumPy, pandas, Matplotlib, TSFEL, and scikit-learn. Implemented decision trees, cross-validation, and integrated zero-shot/few-shot methods.  
