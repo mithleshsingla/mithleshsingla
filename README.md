@@ -16,7 +16,7 @@
 - **GATE (Data Science & AI)** – AIR **114** (2024)  
 - **GATE (Mathematics)** – AIR **154** (2023)  
 - Selected for **Amazon ML Summer School**  
-- **IITGN** VIDHYUT-AI Hackathon **Winner**
+- **Winner** – VIDHYUT-AI Hackathon, IIT Gandhinagar
 ---
 
 ## 🌱 Learning Goals  
