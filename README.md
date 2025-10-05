@@ -16,7 +16,7 @@
 - **GATE (Data Science & AI)** – AIR **114** (2024)  
 - **GATE (Mathematics)** – AIR **154** (2023)  
 - Selected for **Amazon ML Summer School**  
-
+- IITGN VIDHYUT-AI Hackathon **Winner**
 ---
 
 ## 🌱 Learning Goals  
@@ -68,7 +68,8 @@
 ## 📌 Featured Projects  
 - 🚀 **[FlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching](https://github.com/mithleshsingla/FlowIID)**
    Submitted to ICASSP 2026 (Under Review). Developed FlowIID, a SOTA IID model achieving single-step albedo & shading decomposition with only 52M params (vs. typical   250–500M), using VAE,  Encoder,  UNet. Deployed on Hugging Face Spaces.
-  
+- ⚡ **[AI-Powered EV Battery Safety & Reliability System](https://github.com/mithleshsingla/AI_Powered_EV_Safety_and_Reliability)**
+   Developed a comprehensive data-driven backend leveraging Machine Learning and Reinforcement Learning to predict EV battery safety risks, compute Battery Health Index (BHI) in real time, detect anomalies (overheating, abnormal discharge, rapid temperature rise), and recommend optimal charging strategies. Integrated XGBoost, Isolation Forest, and a Q-learning agent, achieving 98.6% accuracy in risk classification with real-time visualization via a Streamlit dashboard.
 - 🏃 **[Human Activity Recognition](https://github.com/mithleshsingla/uci)**  
    Developed a classification model using NumPy, pandas, Matplotlib, TSFEL, and scikit-learn. Implemented decision trees, cross-validation, and integrated zero-shot/few-shot methods.  
 
