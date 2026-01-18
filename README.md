@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Mithlesh Singla  
 
   
-🎓 **AI Enthusiast | M.Tech in Artificial Intelligence (IIT Gandhinagar)** 
-💼 **Developer Intern @ Samsung Research Institute, Bangalore**
+🎓 **AI Enthusiast | M.Tech in Artificial Intelligence (IIT Gandhinagar)**  
+💼 **Developer Intern @ Samsung Research Institute, Bangalore**  
 📘 **M.Sc (Hons) Mathematics | B.Sc (Hons) Mathematics**  
 📚 **Amazon ML Summer School | Researcher @ CVIG Lab (Computer Vision, Imaging & Graphics)**  
 
