@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Mithlesh Singla  
 
-  
-🎓 **AI Enthusiast | M.Tech in Artificial Intelligence (IIT Gandhinagar)**  
+🎓 **M.Tech in Artificial Intelligence, IIT Gandhinagar (Institute Gold Medalist)**  
 💼 **Developer Intern @ Samsung Research Institute, Bangalore**  
-🏅 **IndiaAI Fellow**                                                                                                                    
+🏅 **IndiaAI Fellow (IndiaAI Mission, MeitY, Government of India)**  
+🧑‍🔬 **Computer Vision Researcher @ CVIG Lab**  
 📘 **M.Sc (Hons) Mathematics | B.Sc (Hons) Mathematics**  
-📚 **Amazon ML Summer School | Researcher @ CVIG Lab (Computer Vision, Imaging & Graphics)**  
+📚 **Amazon ML Summer School**  
 
 ---
 
@@ -21,6 +21,7 @@
 - **GATE (Mathematics)** – AIR **154** (2023)  
 - Selected for **Amazon ML Summer School**  
 - **Winner** – VIDHYUT-AI Hackathon, IIT Gandhinagar
+
 ---
 
 ## 🌱 Learning Goals  
@@ -71,9 +72,9 @@
 
 ## 📌 Featured Projects  
 - 🚀 **[FlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching](https://github.com/mithleshsingla/FlowIID)**
-   (ICASSP 2026) Developed FlowIID, a SOTA IID model achieving single-step albedo & shading decomposition with only 52M params (vs. typical   250–500M), using VAE,  Encoder,  UNet. Deployed on Hugging Face Spaces.
+   (ICASSP 2026) Developed FlowIID, a SOTA IID model achieving single-step albedo & shading decomposition with only 52M params (vs. typical   250–500M), using VAE,  Encoder,  UNet. Deployed on Huggi[...]
 - ⚡ **[AI-Powered EV Battery Safety & Reliability System](https://github.com/mithleshsingla/AI_Powered_EV_Safety_and_Reliability)**
-   Developed a comprehensive data-driven backend leveraging Machine Learning and Reinforcement Learning to predict EV battery safety risks, compute Battery Health Index (BHI) in real time, detect anomalies (overheating, abnormal discharge, rapid temperature rise), and recommend optimal charging strategies. Integrated XGBoost, Isolation Forest, and a Q-learning agent, achieving 98.6% accuracy in risk classification with real-time visualization via a Streamlit dashboard.
+   Developed a comprehensive data-driven backend leveraging Machine Learning and Reinforcement Learning to predict EV battery safety risks, compute Battery Health Index (BHI) in real time, detect anom[...]
 - 🏃 **[Human Activity Recognition](https://github.com/mithleshsingla/uci)**  
    Developed a classification model using NumPy, pandas, Matplotlib, TSFEL, and scikit-learn. Implemented decision trees, cross-validation, and integrated zero-shot/few-shot methods.  
 
