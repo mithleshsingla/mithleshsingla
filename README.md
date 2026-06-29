@@ -11,12 +11,12 @@
 
 ## 🔭 Current Work  
 - 💼 Developer Intern @ Samsung Research Institute, Bangalore **(SRIB)**
-- 🎓 Pursuing **M.Tech in AI (2nd Year)** at **IIT Gandhinagar**  
-- 🧑‍🔬 Researching at **CVIG Lab** in **Computer Vision, Imaging, and Graphics**  
-
+  
 ---
 
 ## 📜 Achievements  
+- **Institute Gold Medalist** - M.Tech. AI, IIT Gandhinagar
+- **IndiaAI Fellow** - IndiaAI Mission, MeitY, Government of India
 - **GATE (Data Science & AI)** – AIR **114** (2024)  
 - **GATE (Mathematics)** – AIR **154** (2023)  
 - Selected for **Amazon ML Summer School**  
